@@ -1,4 +1,7 @@
-const palindromes = function () {
+const palindromes = function (string) {
+
+
+
 
 };
 
